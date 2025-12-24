@@ -1,0 +1,4 @@
+main.js
+function vote(optionId) {
+  alert("Has votado la opción " + optionId);
+}
