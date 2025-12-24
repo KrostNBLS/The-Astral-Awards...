@@ -1,0 +1,26 @@
+index.html
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Premios 2025</title>
+</head>
+<body>
+
+<h1>🏆 The Astral Awards</h1>
+
+<h2>Mejor Prenda</h2>
+<button onclick="vote(1)">Hombre 1</button>
+<button onclick="vote(2)">Hombre 2</button>
+<button onclick="vote(3)">Hombre 3</button>
+
+<h2>Mejor Outfit</h2>
+<button onclick="vote(4)">Outfit 1</button>
+<button onclick="vote(5)">Outfit 2</button>
+<button onclick="vote(6)">Outfit 3</button>
+
+<script src="main.js"></script>
+
+</body>
+</html>
